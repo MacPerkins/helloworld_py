@@ -13,7 +13,8 @@ I wanted to create a basic program as a good starting point in a tutorial I was 
 # Development Environment
 
 Programming language: Python.
-Coding enviroment: Visual Studio Code
+
+Coding enviroment: Visual Studio Code.
 
 # Useful Websites
 
