@@ -21,7 +21,7 @@ Coding enviroment: Visual Studio Code
 Here are some websites I found helpful in creating this project:
 
 W3Schools:
-    [Python Tutorial](https://www.w3schools.com/python/default.asp)
-    [For Loops](https://www.w3schools.com/python/python_for_loops.asp)
-    [If...Else](https://www.w3schools.com/python/python_conditions.asp)
+- [Python Tutorial](https://www.w3schools.com/python/default.asp)
+- [For Loops](https://www.w3schools.com/python/python_for_loops.asp)
+- [If...Else](https://www.w3schools.com/python/python_conditions.asp)
 
