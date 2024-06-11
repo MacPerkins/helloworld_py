@@ -8,7 +8,7 @@ I wanted to create a basic program as a good starting point in a tutorial I was 
 
 # Video Demonstration
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/tU_kpkV-Grg)
 
 # Development Environment
 
